@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paper-conference | Academic</title>
+    <title>paper-conference | Xuefei&#39;s Blog</title>
     <link>https://example.com/publication-type/paper-conference/</link>
       <atom:link href="https://example.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>paper-conference</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
+      <title>Correlation between fine-grained neighborhood socioeconomic status distribution and crime rates in New York City `based on machine learning</title>
       <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/conference-paper/</guid>
